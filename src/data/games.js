@@ -154,41 +154,70 @@ export default {
       De deugd van het lange zwaard kan tien man verslaan. Je moet deze deugd bereiken in Ninja Legends en de gestolen schaduwrollen terugvinden. Vijanden zullen coöperatieve groepsaanvallen gebruiken om je te omringen en proberen te overmeesteren. Beheers alle wapens en tactieken ...`,
       iframe: 'https://www.youtube.com/watch?v=UqXJnhyE7fQ'
   ], 'vr escape': [{
-      title: 'Ninja Legends.',
-      subtitle: 'Swords and ninjas',
+      title: 'Escape the Basement.',
+      subtitle: 'Singleplayer escape room. 20-25 min',
       multiplayer: false,
       singleplayer: true,
       pvp: false,
       description: `
-      De deugd van het lange zwaard kan tien man verslaan. Je moet deze deugd bereiken in Ninja Legends en de gestolen schaduwrollen terugvinden. Vijanden zullen coöperatieve groepsaanvallen gebruiken om je te omringen en proberen te overmeesteren. Beheers alle wapens en tactieken ...`,
-      iframe: 'https://www.youtube.com/watch?v=UqXJnhyE7fQ'
+      Je bevindt je opgesloten in de cel van een onbekende kelder met niets anders dan een bed en een toilet. Kan je ontsnappen? Verken de omgeving, los puzzels op, onderzoek aanwijzingen en vind je weg door in totaal 7 kamers om - hopelijk - te ontsnappen aan de kelder van dit VR-escape roomspel`,
+      iframe: 'https://www.youtube.com/watch?v=4SnBF8yl07E&t=5s'
   }, {
-      title: 'Ninja Legends.',
-      subtitle: 'Swords and ninjas',
+      title: 'The Woods.',
+      subtitle: 'Singleplayer Escape Game. 15-20 min',
       multiplayer: false,
       singleplayer: true,
       pvp: false,
       description: `
-      De deugd van het lange zwaard kan tien man verslaan. Je moet deze deugd bereiken in Ninja Legends en de gestolen schaduwrollen terugvinden. Vijanden zullen coöperatieve groepsaanvallen gebruiken om je te omringen en proberen te overmeesteren. Beheers alle wapens en tactieken ...`,
-      iframe: 'https://www.youtube.com/watch?v=UqXJnhyE7fQ'
+       Na een wandeling in het bos, vind je jezelf opgesloten in een slingerende kooi boven de grond, zonder herinnering aan hoe je daar bent gekomen. Ontdek de mysteries die dit bos te bieden heeft. Los puzzels op, ontcijfer oude teksten en ontdek de mystieke geheimen die vele jaren in dit bos verborgen zijn`,
+      iframe: 'https://www.youtube.com/watch?v=OnTB3CcbIQg'
+  }, {
+      title: 'The Cabin.',
+      subtitle: 'Singleplayer Escape Game. 15-20 min',
+      multiplayer: false,
+      singleplayer: true,
+      pvp: false,
+      description: `
+      Als archeoloog die in de voetsporen van je grootvader treed, stuit je op een mysterieuze plek. Ontdek artefacten en los oude puzzels op om je nalatenschap te vervullen.`,
+      iframe: 'https://youtu.be/sy3BJZbRfOs'
+  }, {
+      title: 'The Experiment.',
+      subtitle: 'Multiplayer Escape Room. 60 min Moeilijkheidsgraad - Gemiddeld',
+      multiplayer: true,
+      singleplayer: true,
+      pvp: false,
+      description: `
+      "The Experiment" is een multiplayer escape room-puzzelspel. Je nam deel aan een experiment dat uit de hand liep, kun je ontsnappen voordat het te laat is?`,
+      iframe: 'https://youtu.be/JQ7voyu7PGs'
+  }, {
+      title: 'Coming Soon! Escape: Trapped above the clouds.',
+      subtitle: 'Singleplayer Escape Game. 15-20 min',
+      multiplayer: false,
+      singleplayer: true,
+      pvp: false,
+      description: `
+      Je bevindt je vast boven de wolken - in een anderhalve kilometer hoog gebouw dat nog gedeeltelijk in aanbouw is! Kan je ontsnappen? Verken de omgeving, los puzzels op, onderzoek aanwijzingen en vind je weg door in totaal 3 grote gebieden om - hopelijk - te ontsnappen aan het penthouse van dit VR-escape roomspel.`,
+      iframe: 'https://youtu.be/B_sZTOv-gtI'
   }], 'vr laser': [{
-      title: 'Ninja Legends.',
-      subtitle: 'Swords and ninjas',
-      multiplayer: false,
-      singleplayer: true,
-      pvp: false,
+      title: 'Tower Tag.',
+      subtitle: 'Mulitplayer Laser shooter',
+      multiplayer: true,
+      singleplayer: false,
+      pvp: true,
       description: `
-      De deugd van het lange zwaard kan tien man verslaan. Je moet deze deugd bereiken in Ninja Legends en de gestolen schaduwrollen terugvinden. Vijanden zullen coöperatieve groepsaanvallen gebruiken om je te omringen en proberen te overmeesteren. Beheers alle wapens en tactieken ...`,
-      iframe: 'https://www.youtube.com/watch?v=UqXJnhyE7fQ'
+      Tower Tag is bedoeld om met andere spelers te worden gespeeld. 
+
+
+Speel solo tegen een andere speler of werk samen met anderen om de coöperatieve multiplayer te spelen en de overwinning op het andere team te claimen.
+Spelen tegen en met vrienden is nog steeds het grootste plezier dat je kunt hebben in VR. 
+Daarom is Tower Tag volledig gericht op competitieve teamgames.Tower
+Tag geeft de speler een gevoel van betrokkenheid. Het is  een echte sport, alleen in Virtual Reality.
+Genomineerd voor beste game design en meest innovatief spel van 2019
+
+Kom je de eerste plaats claimen?.',
+      iframe: 'https://youtu.be/LCkaNqfzohM'
   }, {
-      title: 'Ninja Legends.',
-      subtitle: 'Swords and ninjas',
-      multiplayer: false,
-      singleplayer: true,
-      pvp: false,
-      description: `
-      De deugd van het lange zwaard kan tien man verslaan. Je moet deze deugd bereiken in Ninja Legends en de gestolen schaduwrollen terugvinden. Vijanden zullen coöperatieve groepsaanvallen gebruiken om je te omringen en proberen te overmeesteren. Beheers alle wapens en tactieken ...`,
-      iframe: 'https://www.youtube.com/watch?v=UqXJnhyE7fQ'
+
   }
   ]
 }
